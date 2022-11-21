@@ -7,9 +7,6 @@
 - Tomography & Waveform Inversion
 - ...
 
-
-
-
 ## Links
 - ESS-590C-Autumn: https://github.com/UW-ESS-DS/MLGeo-Autumn22
 - UW ESS Data Science: https://github.com/UW-ESS-DS
